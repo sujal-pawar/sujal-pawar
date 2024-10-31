@@ -3,7 +3,7 @@
 **I'm a Second-year Computer Engineering student passionate about web development, problem-solving, and building impactful digital solutions.**
 
 - 🔭 Currently working on development projects
-- 🌱 Learning Data Structures, Algorithms, and Next.js
+- 🌱 Learning Data Structures & Algorithms, and Next.js
 - 👯 Open to collaborating on web dev projects
 - 💬 Ask me about turning web dev nightmares into sweet dreams.
 - 📫 Reach me: [sujalpawar00007@gmail.com](mailto:sujalpawar00007@gmail.com) | [LinkedIn](https://linkedin.com/in/sujal-pawar)

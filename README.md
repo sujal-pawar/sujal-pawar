@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Sujal Pawar
+# 👋 Hello! I'm Sujal
 
 **I'm a Second-year Computer Engineering student passionate about web development, problem-solving, and building impactful digital solutions.**
 

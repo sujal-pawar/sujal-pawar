@@ -1,4 +1,28 @@
-## Hi there 👋
+# 👋 Hello! I'm Sujal Pawar
+
+**I'm a second-year Computer Engineering student passionate about web development, problem-solving, and building impactful digital solutions.**
+
+## 🌐 About Me
+- 🧑‍💻 **Programming Languages**: Python, C, C++, JavaScript
+- 🌱 **Currently Learning**: Data Structures, React, Full-Stack Web Development
+- 🚀 **Interests**: Problem-solving, Web Development, Open Source
+- 💡 **Projects**: FitBox Gym Website, Badminton Score Tracker, Newspulse, Nagrik Aur Samvidhan
+
+## 🎯 Goals
+- To create projects that blend practical use and innovation
+- Actively contribute to open-source communities
+- Keep improving my technical skills and grow as a developer
+
+## 🛠️ My Stack
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, SQL, 
+- **Tools & Platforms**: Git, GitHub 
+
+## 📫 Contact Me
+- **GitHub**: [github.com/sujal-pawar](https://github.com/sujal-pawar)
+- **LinkedIn**: [Sujal Pawar](https://linkedin.com/in/sujal-pawar)
+- **Mail**: sujalpawar00007@gmail.com
+  
 [![An image of @sujalpawar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujalpawar)](https://holopin.io/@sujalpawar)
 <!--
 **sujal-pawar/sujal-pawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

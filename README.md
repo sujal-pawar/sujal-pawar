@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Sujal Pawar
 
-**I'm a second-year Computer Engineering student passionate about web development, problem-solving, and building impactful digital solutions.**
+**I'm a Second-year Computer Engineering student passionate about web development, problem-solving, and building impactful digital solutions.**
 
 - 🔭 Currently working on development projects
 - 🌱 Learning Data Structures, Algorithms, and Next.js

@@ -2,16 +2,10 @@
 
 **I'm a second-year Computer Engineering student passionate about web development, problem-solving, and building impactful digital solutions.**
 
-## 🌐 About Me
-- 🧑‍💻 **Programming Languages**: Python, C, C++, JavaScript
-- 🌱 **Currently Learning**: Data Structures, React, Full-Stack Web Development
-- 🚀 **Interests**: Problem-solving, Web Development, Open Source
-- 💡 **Projects**: FitBox Gym Website, Badminton Score Tracker, Newspulse, Nagrik Aur Samvidhan
-
-## 🛠️ My Stack
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, SQL, 
-- **Tools & Platforms**: Git, GitHub 
+- 🔭 Currently working on development projects
+- 🌱 Learning Data Structures, Algorithms, and Next.js
+- 👯 Open to collaborating on web dev projects
+- 📫 Reach me: [sujalpawar00007@gmail.com] | [https://www.linkedin.com/in/sujal-pawar/]
 
   
 [![An image of @sujalpawar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujalpawar)](https://holopin.io/@sujalpawar)

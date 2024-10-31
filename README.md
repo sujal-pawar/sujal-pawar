@@ -5,7 +5,8 @@
 - 🔭 Currently working on development projects
 - 🌱 Learning Data Structures, Algorithms, and Next.js
 - 👯 Open to collaborating on web dev projects
-- 📫 Reach me: [sujalpawar00007@gmail.com] | [https://www.linkedin.com/in/sujal-pawar/]
+- 💬 Ask me about turning web dev nightmares into sweet dreams.
+- 📫 Reach me: [sujalpawar00007@gmail.com](mailto:sujalpawar00007@gmail.com) | [LinkedIn](https://linkedin.com/in/sujal-pawar)
 
   
 [![An image of @sujalpawar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sujalpawar)](https://holopin.io/@sujalpawar)

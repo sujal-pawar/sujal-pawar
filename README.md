@@ -2,6 +2,8 @@
 
 # 👋 Hello! I'm Sujal
 
+## About Me:
+
 **I'm a Second-year Computer Engineering student passionate about web development, problem-solving, and building impactful digital solutions.**
 
 - 🔭 Currently working on development projects

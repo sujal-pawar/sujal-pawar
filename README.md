@@ -1,11 +1,14 @@
 <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" height="300px">
 
-# 👋 Hello! I'm Sujal
+<h1 align="center">👋 Hey there! I'm Sujal</h1>
 
-I'm a Computer Engineering student passionate about web development, problem-solving, and building impactful solutions.
+<p>
+  I'm a Computer Engineering student driven by a passion for web development, clean UI/UX,
+  and solving real-world problems through code.
+</p>
 
-- 🔭 Currently working on development projects
-- 👯 Open to collaborating on web dev projects
+- 🔭 Currently building full-stack web applications
+- 👯 Open to collaborating on meaningful web development projects
 - 💬 Ask me about turning web dev nightmares into sweet dreams.
 - 📫 Reach me: [sujalpawar00007@gmail.com](mailto:sujalpawar00007@gmail.com) | [LinkedIn](https://linkedin.com/in/sujal-pawar)
 

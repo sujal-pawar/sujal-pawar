@@ -3,8 +3,8 @@
 <h1 align="center">👋 Hey there! I'm Sujal</h1>
 
 <p>
-  I'm a Computer Engineering student driven by a passion for web development, clean UI/UX,
-  and solving real-world problems through code.
+  I'm a Computer Engineering student driven by a passion for web development, clean UI/UX.
+  and solving real-world problems.
 </p>
 
 - 🔭 Currently building full-stack web applications

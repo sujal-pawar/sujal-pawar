@@ -17,7 +17,7 @@
 -   🔭 **Currently building full-stack web applications**
 -   👯 **Open to collaborating on meaningful web development projects**
 -   💬 **Ask me about turning Web-dev nightmares into sweet dreams.**
--   ‍🏫 **Mentored 100+ students in tech workshops (Web Dev, Git & GitHub)**
+-   ‍🏫 **Mentored 300+ students in tech workshops (Web Dev, Git & GitHub)**
 
 
 

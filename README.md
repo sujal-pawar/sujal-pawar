@@ -28,7 +28,7 @@
 <div align="center" style="margin:20px 0 0 0;">
   <b>👨‍💻 Computer Engineering Student @ SPPU</b> •
   <b>🏆 Mentored 300+ Aspiring Developers</b> •
-  <b>⚡ Passionate about Clean Code & Impact  </b> •<br>  
+  <b>⚡ Passionate about Clean Code & Impact  </b> <br>  
 </div>
 
 

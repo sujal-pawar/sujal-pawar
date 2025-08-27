@@ -12,13 +12,13 @@
 <h2>👨‍💻 About Me</h2>
 
 
-
--   🚀 **Passionate about crafting clean, scalable code and intuitive UIs**
--   🔭 **Currently building full-stack web applications**
--   👯 **Open to collaborating on meaningful web development projects**
--   💬 **Ask me about turning Web-dev nightmares into sweet dreams.**
--   ‍🏫 **Mentored 300+ students in tech workshops (Web Dev, Git & GitHub)**
-
+<div>
+<h4>🚀 Passionate about crafting clean, scalable code and intuitive UIs</h4>
+<h4>🔭 Currently building full-stack web applications</h4>
+<h4>👯 Open to collaborating on meaningful web development projects</h4>
+<h4>💬 Ask me about turning Web-dev nightmares into sweet dreams.</h4>
+<h4> ‍🏫 Mentored 300+ students in tech workshops (Web Dev, Git & GitHub)</h4>
+</div>
 
 
 ---

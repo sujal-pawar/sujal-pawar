@@ -15,7 +15,11 @@
   <a href="https://holopin.io/@sujalpawar">
     <img src="https://img.shields.io/badge/Holopin-0077B5?style=for-the-badge&logo=holopin&logoColor=white&labelColor=1d1d1d" alt="Holopin Badges">
   </a>
+  <a href="https://leetcode.com/u/sujal_pawar/">
+    <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
 </p>
+
 
 <p align="center">
   <a href="https://skillicons.dev">

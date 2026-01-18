@@ -29,14 +29,18 @@
 
 ## 🧠 About Me
 
-- 🎓 Computer Engineering student with a strong interest in software engineering
-- ⚙️ Build full-stack applications using **React, Next.js, Node.js, Express, MongoDB, and SQL**
-- 🏗️ Focused on **backend development, clean APIs, and scalable system design**
-- 🚀 Continuously improving code quality, architecture, and engineering fundamentals
+- 🎓 Computer Engineering student building **real software**.
+- ⚙️ Develop full-stack applications using Next.js, React, Node.js, Express, MongoDB, and SQL.
+- 🏗️ Obsessed with **clean APIs, scalable systems, and solid engineering fundamentals**.
+- 🚀 Focused on writing code that **scales, survives, and stays maintainable**.
 
 
 ---
 
+
+<img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/7c50acfc-051d-41a1-a016-edc9b756f1b4" />
 <p align="center">
   <i>Focused on building real projects and improving engineering depth.</i>
 </p>
+
+

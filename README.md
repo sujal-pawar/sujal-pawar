@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <a href="mailto:sujalpawar00007@gmail.com">
+  <a href="mailto:sujalpawar.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/sujal-pawar">

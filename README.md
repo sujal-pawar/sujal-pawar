@@ -25,8 +25,6 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,nodejs,express,mongodb,java,git,github,figma&perline=6" />
 </p>
 
-<br/>
-
 ## 👨‍💻 About Me
 
 ```yaml

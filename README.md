@@ -25,22 +25,27 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,nodejs,express,mongodb,java,git,github,figma&perline=6" />
 </p>
 
----
+<br/>
 
-## 🧠 About Me
+## 👨‍💻 About Me
+
+```yaml
+name: Sujal Pawar
+role: Full-Stack Developer
+education: B.E, Dr. D. Y. Patil Institute of Technology (2023 - 2027)
+location: Pune, India
+focus: Always learning, always building.
+```
 
 - 🎓 Computer Engineering student building **real software**.
 - ⚙️ Develop full-stack applications using Next.js, React, Node.js, Express, MongoDB, and SQL.
 - 🏗️ Obsessed with **clean APIs, scalable systems, and solid engineering fundamentals**.
 - 🚀 Focused on writing code that **scales, survives, and stays maintainable**.
 
-
----
+<br/>
 
 
 <img width="2000" height="400" alt="image" src="https://github.com/user-attachments/assets/7c50acfc-051d-41a1-a016-edc9b756f1b4" />
 <p align="center">
   <i>Focused on building real projects and improving engineering depth.</i>
 </p>
-
-
